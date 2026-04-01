@@ -1,0 +1,3 @@
+hardhat/=backend/node_modules/hardhat/
+@openzeppelin/=backend/node_modules/@openzeppelin/
+forge-std/=backend/node_modules/forge-std/src/
